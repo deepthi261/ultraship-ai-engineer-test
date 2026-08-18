@@ -13,7 +13,7 @@ To build an evaluation suite that reflects production reality, we need **100–2
 ### Partial Correctness Scoring Framework
 Relying solely on binary document-level accuracy ("Exact Match") is flawed because missing a zip code is far less critical than missing the total rate or pickup date. We calculate a **Weighted Field Score (WFS)** per document:
 
-$$\text{WFS} = \sum_{f \in \text{Fields}} w_f \cdot S(f_{\text{extracted}}, f_{\text{ground\_truth}})$$
+WFS= f∈Fields∑wf⋅S(f extracted ,f ground_truth)
 
 Where weights reflect operational criticality:
 - **Tier 1 (Weight = 0.30 each)**: `total_rate`, `origin` (city/state), `destination` (city/state), `pickup_date`. *(Failure here misroutes or misprices freight)*.
