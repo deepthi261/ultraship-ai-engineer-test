@@ -1,0 +1,69 @@
+CARRIER RATE & LOAD CONFIRMATION
+
+UltraShip TMS
+9456 Laguna Springs Drive, Elk Grove, CA, USA, Elk Grove California 95758-7987
+Mailing Address: 9456 Laguna Springs Drive, Elk Grove, CA, USA
+Phone: 12312312333
+Fax: +12345678901
+After hour Contact: test@gmail.com
+
+DETAIL VALUE
+Dispatcher: Test User Ultraship
+Phone: +111111111111
+Email: testuser@ultraship.ai
+Reference ID: LD64392
+Booked On: 28-Jul-2026
+Rate Con Date: 28-Jul-2026
+Pickup Date: 30-Jul-2026
+
+Carrier Details
+CARRIER: 10314803 CANADA INC
+MC #: MC1146347
+PHONE: (905) 670-6882
+EQUIPMENT: Flatbed
+AGREED AMOUNT (USD): $50.00 USD
+SIZE (IN FEET): 10
+
+Stops
+
+Stop #1: Pickup
+test automation pickup
+Illinois State Police, 100 W Randolph St, Chicago, IL 60601, USA
+PO/Container No: 799917
+Load Type: FTL
+Appt Type: appointment
+Shipping Date & Time: 07/30/2026
+Appointment Time: -
+Commodity: Ceramics
+Weight: 182
+Quantity: 07
+Description: Automation pickup description
+
+Stop #2: Drop
+test automation drop
+New York University Jeffrey S. Gould Welcome Center, 50 W 4th Street, New York, NY 10012, USA
+PO/Container No: 494224
+Load Type: FTL
+Appt Type: fcfs
+Delivery Date & Time: 08/01/2026
+Appointment Time: -
+Commodity: Ceramics
+Weight: 182
+Quantity: 07
+Description: This is automation drop location
+
+Rate Breakdown
+Base Carrier Rate: 50.00 USD
+Total: 50.00 USD
+
+Shipper Instructions (Sample)
+Please check in with the shipping office upon arrival. Freight must be loaded according to the scheduled appointment time. Contact the shipper immediately if any delays are expected.
+
+Carrier Instructions (Sample)
+Driver must call dispatch after pickup and provide status updates every morning. Submit signed POD within 24 hours of delivery to avoid payment delays
+
+Driver Details
+DRIVER NAME: Playwright Driver
+CELL NO: (415) 555-1886
+TRUCK NO: 33825
+TRAILER NO: 65962

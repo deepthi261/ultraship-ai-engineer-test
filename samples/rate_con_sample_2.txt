@@ -1,0 +1,83 @@
+CARRIER RATE & LOAD CONFIRMATION
+
+UltraShip TMS
+9456 Laguna Springs Drive, Elk Grove, CA, USA, Elk Grove California 95758-7987
+Mailing Address: 9456 Laguna Springs Drive, Elk Grove, CA, USA
+Phone: 12312312333
+Fax: +12345678901
+After hour Contact: test@gmail.com
+
+DETAIL VALUE
+Dispatcher: Test User Ultraship
+Phone: +111111111111
+Email: testuser@ultraship.ai
+Reference ID: LD64408
+Booked On: 28-Jul-2026
+Rate Con Date: 28-Jul-2026
+Pickup Date: 03-Aug-2026
+
+Carrier Details
+CARRIER: 10314803 CANADA INC
+MC #: MC1146347
+PHONE: (905) 670-6882
+EQUIPMENT: Flatbed
+AGREED AMOUNT (USD): $700.00 USD
+SIZE (IN FEET): 53
+
+Stops
+
+Stop #1: Pickup
+test-r
+Miami International Airport (MIA), Northwest 42nd Avenue, Miami, FL, USA
+PO/Container No: -
+Load Type: FTL
+Appt Type: appointment
+Shipping Date & Time: 07/28/2026
+Appointment Time: -
+Commodity: Ceramics
+Weight: -
+Quantity: g
+Description: -
+
+Stop #2: Pickup
+test automation pickup
+Illinois State Police, 100 W Randolph St, Chicago, IL 60601, USA
+PO/Container No: -
+Load Type: FTL
+Appt Type: appointment
+Shipping Date & Time: 08/03/2026
+Appointment Time: -
+Commodity: Commodity_t
+Weight: -
+Quantity: 55
+Description: -
+
+Stop #3: Drop
+test122
+Hertz Car Rental - San Jose - San Jose Mineta International Airport (SJC), Airport Boulevard, San Jose, CA, USA
+PO/Container No: -
+Load Type: FTL
+Appt Type: appointment
+Delivery Date & Time: 08/05/2026
+Appointment Time: -
+Commodity: Commodity_t, Ceramics
+Weight: -
+Quantity: 55, g
+Description: -
+
+Rate Breakdown
+Base Carrier Rate: 500.00 USD
+Carrier Charge: 200.00 USD
+Total: 700.00 USD
+
+Shipper Instructions (Sample)
+Please check in with the shipping office upon arrival. Freight must be loaded according to the scheduled appointment time. Contact the shipper immediately if any delays are expected.
+
+Carrier Instructions (Sample)
+Driver must call dispatch after pickup and provide status updates every morning. Submit signed POD within 24 hours of delivery to avoid payment delays
+
+Driver Details
+DRIVER NAME: John Driver
+CELL NO: (415) 555-2671
+TRUCK NO: 12345
+TRAILER NO: 67890
