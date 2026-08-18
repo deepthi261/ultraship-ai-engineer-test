@@ -1,6 +1,6 @@
 # UltraShip AI Engineer Skill Test
 
-Production-grade implementation for the **UltraShip AI Engineer Skill Test**, featuring an LLM document extraction pipeline with strict schema enforcement, deterministic rule-based confidence scoring, explicit failure case handlers, an automated test suite, and written engineering design documents for evaluation strategy and Carrier Match system design.
+Implementation for the **UltraShip AI Engineer Skill Test**, featuring an LLM document extraction pipeline with strict schema enforcement, deterministic rule-based confidence scoring, explicit failure case handlers, an automated test suite, and written engineering design documents for evaluation strategy and Carrier Match system design.
 
 ---
 
